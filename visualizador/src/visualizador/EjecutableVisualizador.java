@@ -12,7 +12,7 @@ public class EjecutableVisualizador extends PApplet{
 	
 	public void draw(){
 		
-		app.pintar();
+		//app.pintar();
 		
 	}
 }
